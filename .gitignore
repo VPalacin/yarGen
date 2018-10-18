@@ -1,2 +1,8 @@
-./yarGen/__pycache__/
-./yarGen/mounted/1616e1e046666d283259d41882aa2d5f602be4ec.codex
+yarGen/__pycache__/
+yarGen/mounted/1616e1e046666d283259d41882aa2d5f602be4ec.codex
+yarGen/byte-mapper.py
+yarGen/good.txt
+yarGen/output-rule-0.14.1-png
+yarGen/yargen-running.png
+yarGen/strings.xml
+
