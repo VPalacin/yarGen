@@ -1,6 +1,6 @@
 yarGen/__pycache__/
 yarGen/byte-mapper.py
-./yarGen/good.txt
+yarGen/good.txt
 yarGen/output-rule-0.14.1-png
 yarGen/yargen-running.png
 yarGen/strings.xml
