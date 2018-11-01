@@ -40,45 +40,45 @@ RELEVANT_EXTENSIONS = [".asp", ".vbs", ".ps", ".ps1", ".tmp", ".bas", ".bat", ".
                        ".wsf", ".wsh", ".input", ".war", ".jsp", ".php", ".asp", ".aspx", ".psd1", ".psm1", ".py"]
 
 REPO_URLS = {
-    'good-opcodes-part1.db': 'https://www.bsk-consulting.de/download/yargen/good-opcodes-part1.db',
-    'good-opcodes-part2.db': 'https://www.bsk-consulting.de/download/yargen/good-opcodes-part2.db',
-    'good-opcodes-part3.db': 'https://www.bsk-consulting.de/download/yargen/good-opcodes-part3.db',
-    'good-opcodes-part4.db': 'https://www.bsk-consulting.de/download/yargen/good-opcodes-part4.db',
-    'good-opcodes-part5.db': 'https://www.bsk-consulting.de/download/yargen/good-opcodes-part5.db',
-    'good-opcodes-part6.db': 'https://www.bsk-consulting.de/download/yargen/good-opcodes-part6.db',
-    'good-opcodes-part7.db': 'https://www.bsk-consulting.de/download/yargen/good-opcodes-part7.db',
-    'good-opcodes-part8.db': 'https://www.bsk-consulting.de/download/yargen/good-opcodes-part8.db',
-    'good-opcodes-part9.db': 'https://www.bsk-consulting.de/download/yargen/good-opcodes-part9.db',
+    'good-opcodes-part1.db': 'https://www.bsk-consulting.de/yargen/good-opcodes-part1.db',
+    'good-opcodes-part2.db': 'https://www.bsk-consulting.de/yargen/good-opcodes-part2.db',
+    'good-opcodes-part3.db': 'https://www.bsk-consulting.de/yargen/good-opcodes-part3.db',
+    'good-opcodes-part4.db': 'https://www.bsk-consulting.de/yargen/good-opcodes-part4.db',
+    'good-opcodes-part5.db': 'https://www.bsk-consulting.de/yargen/good-opcodes-part5.db',
+    'good-opcodes-part6.db': 'https://www.bsk-consulting.de/yargen/good-opcodes-part6.db',
+    'good-opcodes-part7.db': 'https://www.bsk-consulting.de/yargen/good-opcodes-part7.db',
+    'good-opcodes-part8.db': 'https://www.bsk-consulting.de/yargen/good-opcodes-part8.db',
+    'good-opcodes-part9.db': 'https://www.bsk-consulting.de/yargen/good-opcodes-part9.db',
 
-    'good-strings-part1.db': 'https://www.bsk-consulting.de/download/yargen/good-strings-part1.db',
-    'good-strings-part2.db': 'https://www.bsk-consulting.de/download/yargen/good-strings-part2.db',
-    'good-strings-part3.db': 'https://www.bsk-consulting.de/download/yargen/good-strings-part3.db',
-    'good-strings-part4.db': 'https://www.bsk-consulting.de/download/yargen/good-strings-part4.db',
-    'good-strings-part5.db': 'https://www.bsk-consulting.de/download/yargen/good-strings-part5.db',
-    'good-strings-part6.db': 'https://www.bsk-consulting.de/download/yargen/good-strings-part6.db',
-    'good-strings-part7.db': 'https://www.bsk-consulting.de/download/yargen/good-strings-part7.db',
-    'good-strings-part8.db': 'https://www.bsk-consulting.de/download/yargen/good-strings-part8.db',
-    'good-strings-part9.db': 'https://www.bsk-consulting.de/download/yargen/good-strings-part9.db',
+    'good-strings-part1.db': 'https://www.bsk-consulting.de/yargen/good-strings-part1.db',
+    'good-strings-part2.db': 'https://www.bsk-consulting.de/yargen/good-strings-part2.db',
+    'good-strings-part3.db': 'https://www.bsk-consulting.de/yargen/good-strings-part3.db',
+    'good-strings-part4.db': 'https://www.bsk-consulting.de/yargen/good-strings-part4.db',
+    'good-strings-part5.db': 'https://www.bsk-consulting.de/yargen/good-strings-part5.db',
+    'good-strings-part6.db': 'https://www.bsk-consulting.de/yargen/good-strings-part6.db',
+    'good-strings-part7.db': 'https://www.bsk-consulting.de/yargen/good-strings-part7.db',
+    'good-strings-part8.db': 'https://www.bsk-consulting.de/yargen/good-strings-part8.db',
+    'good-strings-part9.db': 'https://www.bsk-consulting.de/yargen/good-strings-part9.db',
 
-    'good-exports-part1.db': 'https://www.bsk-consulting.de/download/yargen/good-exports-part1.db',
-    'good-exports-part2.db': 'https://www.bsk-consulting.de/download/yargen/good-exports-part2.db',
-    'good-exports-part3.db': 'https://www.bsk-consulting.de/download/yargen/good-exports-part3.db',
-    'good-exports-part4.db': 'https://www.bsk-consulting.de/download/yargen/good-exports-part4.db',
-    'good-exports-part5.db': 'https://www.bsk-consulting.de/download/yargen/good-exports-part5.db',
-    'good-exports-part6.db': 'https://www.bsk-consulting.de/download/yargen/good-exports-part6.db',
-    'good-exports-part7.db': 'https://www.bsk-consulting.de/download/yargen/good-exports-part7.db',
-    'good-exports-part8.db': 'https://www.bsk-consulting.de/download/yargen/good-exports-part8.db',
-    'good-exports-part9.db': 'https://www.bsk-consulting.de/download/yargen/good-exports-part9.db',
+    'good-exports-part1.db': 'https://www.bsk-consulting.de/yargen/good-exports-part1.db',
+    'good-exports-part2.db': 'https://www.bsk-consulting.de/yargen/good-exports-part2.db',
+    'good-exports-part3.db': 'https://www.bsk-consulting.de/yargen/good-exports-part3.db',
+    'good-exports-part4.db': 'https://www.bsk-consulting.de/yargen/good-exports-part4.db',
+    'good-exports-part5.db': 'https://www.bsk-consulting.de/yargen/good-exports-part5.db',
+    'good-exports-part6.db': 'https://www.bsk-consulting.de/yargen/good-exports-part6.db',
+    'good-exports-part7.db': 'https://www.bsk-consulting.de/yargen/good-exports-part7.db',
+    'good-exports-part8.db': 'https://www.bsk-consulting.de/yargen/good-exports-part8.db',
+    'good-exports-part9.db': 'https://www.bsk-consulting.de/yargen/good-exports-part9.db',
 
-    'good-imphashes-part1.db': 'https://www.bsk-consulting.de/download/yargen/good-imphashes-part1.db',
-    'good-imphashes-part2.db': 'https://www.bsk-consulting.de/download/yargen/good-imphashes-part2.db',
-    'good-imphashes-part3.db': 'https://www.bsk-consulting.de/download/yargen/good-imphashes-part3.db',
-    'good-imphashes-part4.db': 'https://www.bsk-consulting.de/download/yargen/good-imphashes-part4.db',
-    'good-imphashes-part5.db': 'https://www.bsk-consulting.de/download/yargen/good-imphashes-part5.db',
-    'good-imphashes-part6.db': 'https://www.bsk-consulting.de/download/yargen/good-imphashes-part6.db',
-    'good-imphashes-part7.db': 'https://www.bsk-consulting.de/download/yargen/good-imphashes-part7.db',
-    'good-imphashes-part8.db': 'https://www.bsk-consulting.de/download/yargen/good-imphashes-part8.db',
-    'good-imphashes-part9.db': 'https://www.bsk-consulting.de/download/yargen/good-imphashes-part9.db',
+    'good-imphashes-part1.db': 'https://www.bsk-consulting.de/yargen/good-imphashes-part1.db',
+    'good-imphashes-part2.db': 'https://www.bsk-consulting.de/yargen/good-imphashes-part2.db',
+    'good-imphashes-part3.db': 'https://www.bsk-consulting.de/yargen/good-imphashes-part3.db',
+    'good-imphashes-part4.db': 'https://www.bsk-consulting.de/yargen/good-imphashes-part4.db',
+    'good-imphashes-part5.db': 'https://www.bsk-consulting.de/yargen/good-imphashes-part5.db',
+    'good-imphashes-part6.db': 'https://www.bsk-consulting.de/yargen/good-imphashes-part6.db',
+    'good-imphashes-part7.db': 'https://www.bsk-consulting.de/yargen/good-imphashes-part7.db',
+    'good-imphashes-part8.db': 'https://www.bsk-consulting.de/yargen/good-imphashes-part8.db',
+    'good-imphashes-part9.db': 'https://www.bsk-consulting.de/yargen/good-imphashes-part9.db',
 }
 
 PE_STRINGS_FILE = "./3rdparty/strings.xml"
@@ -942,9 +942,9 @@ def filter_string_set(string_set):
         else:
             result_set.append(string[0])
 
-        c += 1
-        if c > int(args.rc):
-            break
+        #c += 1
+        #if c > int(args.rc):
+        #    break
 
     if args.trace:
         print("RESULT SET:")
@@ -1093,7 +1093,7 @@ def generate_rules(file_strings, file_opcodes, super_rules, file_info, inverse_s
 
             # Skip if there is nothing to do
             if len(file_strings[filePath]) == 0:
-                print("[W] Not enough high scoring strings to create a rule. " \
+                 print("[W] Not enough high scoring strings to create a rule. "
                       "(Try -z 0 to reduce the min score or --opcodes to include opcodes) FILE: %s" % filePath)
                 continue
             elif len(file_strings[filePath]) == 0 and len(file_opcodes[filePath]) == 0:
@@ -1141,6 +1141,11 @@ def generate_rules(file_strings, file_opcodes, super_rules, file_info, inverse_s
                 (rule_strings, opcodes_included, string_rule_count, high_scoring_strings) = \
                     get_rule_strings(file_strings[filePath], file_opcodes[filePath])
                 rule += rule_strings
+
+                # Extract rul strings
+                if args.strings:
+                    strings = get_strings(file_strings[filePath])
+                    write_strings(filePath, strings, args.e, args.score)
 
                 # Condition -----------------------------------------------
                 # Conditions list (will later be joined with 'or')
@@ -1610,6 +1615,77 @@ def get_rule_strings(string_elements, opcode_elements):
     return rule_strings, opcodes_included, string_rule_count, high_scoring_strings
 
 
+def get_strings(string_elements):
+    """
+    Get a dictionary of all string types
+    :param string_elements:
+    :return:
+    """
+    strings = {
+        "ascii": [],
+        "wide": [],
+        "base64 encoded": [],
+        "hex encoded": [],
+        "reversed": []
+    }
+
+    # Adding the strings --------------------------------------
+    for i, string in enumerate(string_elements):
+
+        if string[:8] == "UTF16LE:":
+            string = string[8:]
+            strings["wide"].append(string)
+        elif string in base64strings:
+            strings["base64 encoded"].append(string)
+        elif string in hexEncStrings:
+            strings["hex encoded"].append(string)
+        elif string in reversedStrings:
+            strings["reversed"].append(string)
+        else:
+            strings["ascii"].append(string)
+
+    return strings
+
+
+def write_strings(filePath, strings, output_dir, scores):
+    """
+    Writes string information to an output file
+    :param filePath:
+    :param strings:
+    :param output_dir:
+    :param scores:
+    :return:
+    """
+    SECTIONS = ["ascii", "wide", "base64 encoded", "hex encoded", "reversed"]
+    # File
+    filename = os.path.basename(filePath)
+    strings_filename = os.path.join(output_dir, "%s_strings.txt" % filename)
+    print("[+] Writing strings to file %s" % strings_filename)
+    # Strings
+    output_string = []
+    for key in SECTIONS:
+        # Skip empty
+        if len(strings[key]) < 1:
+            continue
+        # Section
+        output_string.append("%s Strings" % key.upper())
+        output_string.append("------------------------------------------------------------------------")
+        for string in strings[key]:
+            if scores:
+                score = "unknown"
+                if key == "wide":
+                    score = stringScores["UTF16LE:%s" % string]
+                else:
+                    score = stringScores[string]
+                output_string.append("%d;%s" % score, string)
+            else:
+                output_string.append(string)
+        # Empty line between sections
+        output_string.append("\n")
+    with open(strings_filename, "w") as fh:
+        fh.write("\n".join(output_string))
+
+
 def initialize_pestudio_strings():
     pestudio_strings = {}
 
@@ -1961,8 +2037,8 @@ def print_welcome():
     print("   ")
     print("   Yara Rule Generator")
     print("   by Florian Roth")
-    print("   April 2018")
-    print("   Version 0.20.0")
+    print("   November 2018")
+    print("   Version 0.21.0")
     print("   ")
     print("###############################################################################")
 
@@ -1990,8 +2066,10 @@ if __name__ == '__main__':
 
     group_output = parser.add_argument_group('Rule Output')
     group_output.add_argument('-o', help='Output rule file', metavar='output_rule_file', default='yargen_rules.yar')
+    group_output.add_argument('-e', help='Output directory for string exports', metavar='output_dir_strings', default='')
     group_output.add_argument('-a', help='Author Name', metavar='author', default='yarGen Rule Generator')
-    group_output.add_argument('-r', help='Reference (can be string or text file)', metavar='ref', default='https://github.com/Neo23x0/yarGen')
+    group_output.add_argument('-r', help='Reference (can be string or text file)', metavar='ref',
+                              default='https://github.com/Neo23x0/yarGen')
     group_output.add_argument('-l', help='License', metavar='lic', default='')
     group_output.add_argument('-p', help='Prefix for the rule description', metavar='prefix',
                               default='Auto-generated rule')
@@ -2000,6 +2078,8 @@ if __name__ == '__main__':
                               metavar='identifier',
                               default='not set')
     group_output.add_argument('--score', help='Show the string scores as comments in the rules', action='store_true',
+                              default=False)
+    group_output.add_argument('--strings', help='Show the string scores as comments in the rules', action='store_true',
                               default=False)
     group_output.add_argument('--nosimple', help='Skip simple rule creation for files included in super rules',
                               action='store_true', default=False)
@@ -2293,17 +2373,17 @@ if __name__ == '__main__':
                     traceback.print_exc()
 
         if use_opcodes and len(good_opcodes_db) < 1:
-            print("[E] Missing goodware opcode databases." \
+            print("[E] Missing goodware opcode databases."
                   "    Please run 'yarGen.py --update' to retrieve the newest database set.")
             use_opcodes = False
 
         if len(good_exports_db) < 1 and len(good_imphashes_db) < 1:
-            print("[E] Missing goodware imphash/export databases. " \
+            print("[E] Missing goodware imphash/export databases. "
                   "    Please run 'yarGen.py --update' to retrieve the newest database set.")
             use_opcodes = False
 
         if len(good_strings_db) < 1 and not args.c:
-            print("[E] Error - no goodware databases found. " \
+            print("[E] Error - no goodware databases found. "
                   "    Please run 'yarGen.py --update' to retrieve the newest database set.")
             sys.exit(1)
 
