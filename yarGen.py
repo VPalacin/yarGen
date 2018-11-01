@@ -1093,7 +1093,7 @@ def generate_rules(file_strings, file_opcodes, super_rules, file_info, inverse_s
 
             # Skip if there is nothing to do
             if len(file_strings[filePath]) == 0:
-                 print("[W] Not enough high scoring strings to create a rule. "
+                print("[W] Not enough high scoring strings to create a rule. "
                       "(Try -z 0 to reduce the min score or --opcodes to include opcodes) FILE: %s" % filePath)
                 continue
             elif len(file_strings[filePath]) == 0 and len(file_opcodes[filePath]) == 0:
