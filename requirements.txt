@@ -1,5 +1,4 @@
 scandir
 pefile
-pickle
 naiveBayesClassifier
 lxml
