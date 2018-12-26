@@ -86,8 +86,8 @@ def init_database(lookups):
         # Imphash databases
         if file.startswith("good-imphash") and "imphash" in lookups:
             try:
-                print("[+] Loading %s ..." % filePath
-                good_imphashes_pickle = load(get_abs_path(filePath)))
+                print("[+] Loading %s ..." % filePath)
+                good_imphashes_pickle = load(get_abs_path(filePath))
                 good_imphashes_db.update(good_imphashes_pickle)
                 print("[+] Total: %s / Added %d entries" % (
                 len(good_imphashes_db), len(good_imphashes_db) - imphash_num))
